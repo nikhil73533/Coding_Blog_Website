@@ -1,0 +1,4 @@
+ mail.send_message("New message from "+name,sender = email,
+                              recipients = [],
+                              body = message +"\n"+ phone )
+                              ,parm = parm

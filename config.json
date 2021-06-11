@@ -1,0 +1,22 @@
+{
+  "parm": {
+    "local_server" :"True",
+    "local_uri":"mysql://root:@localhost/codeingthunder",
+    "prod_uri":  "mysql://root:@localhost/codeingthunder",
+    "fb_url": "https://www.facebook.com/Codingthunder-100987338102021/?modal=admin_todo_tour",
+    "tw_url": "https://twitter.com/codeingthunder",
+    "gt_url": "https://github.com/Nikhil7555/codingthunder-/pulls",
+    "blog_name": "BlogingThunder",
+    "subline": "the blog for your",
+    "gmail_user": "ng7873301@gmail.com",
+    "gmail_pas": "ashok1370",
+    "about_text": "Hy my name is Nikhil Baniya and i am a python programer",
+    "no_of_post":1,
+    "login_img": "login_img.svg",
+    "user_id": "nikhil@jklu.edu.in",
+    "password": "NikhilGupta",
+    "file_location": "C:\\Users\\nikhil\\PycharmProjects\\flask.tut\\static\\img"
+  }
+
+
+}
