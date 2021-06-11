@@ -44,7 +44,7 @@ class Post(db.Model):  # ye ek class ye data base ko define kre ge
     title = db.Column(db.String(80), nullable=False)
     slug = db.Column(db.String(21), nullable=False)
     tegline = db.Column(db.String(120), nullable=False)
-    contant= db.Column(db.String(120), nullable=False)
+    contant= db.Column(db.String(5000), nullable=False)
     date = db.Column(db.String(12), nullable=True)
     img_file = db.Column(db.String(12), nullable=False)
 

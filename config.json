@@ -1,7 +1,7 @@
 {
   "parm": {
     "local_server" :"True",
-    "local_uri":"mysql://root:@localhost/codeingthunder",
+    "local_uri":"mysql://root:@localhost/codingthunder",
     "prod_uri":  "mysql://root:@localhost/codeingthunder",
     "fb_url": "https://www.facebook.com/Codingthunder-100987338102021/?modal=admin_todo_tour",
     "tw_url": "https://twitter.com/codeingthunder",
